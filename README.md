@@ -1,10 +1,10 @@
 # Momentum Trading Strategy using Machine Learning
 
-Notebook: [View Jupyter Notebook](ParasSurve_QuantQuest_ESummit26.ipynb)
+Notebook: [View Jupyter Notebook](Untitled0.ipynb)
 
-Report: [Project Report PDF](paras_surve_Momentum-Trading-Strategy-using-Machine-Learning.pdf)
+Report: [Project Report PDF](paras_surve_Momentum-Trading-Strategy-using-Machine-Learning_20260315_201249_0000.pdf)
 
-Predictions: [Weekly Predictions CSV](paras_surve_weekly_predictions.csv)
+Predictions: [Weekly Predictions CSV](paras_surve_weekly_predictions%20(8).csv)
 
 This project implements a machine learning based momentum trading strategy developed for the QuantQuest Hackathon (E-Summit IIT Mandi).
 
