@@ -1,3 +1,6 @@
+
+🚀 Machine Learning-based momentum trading strategy that predicts weekly stock returns and constructs a portfolio with risk-adjusted performance.
+
 # Momentum Trading Strategy using Machine Learning
 
 ## Project Files
@@ -51,3 +54,14 @@ Pandas
 Scikit-Learn  
 Matplotlib  
 Yahoo Finance API
+
+## How to Run
+
+1. Clone the repository
+git clone https://github.com/surveparas484-art/momentum-trading-ml
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run the notebook
+Open ParasSurve_QuantQuest_ESummit26.ipynb in Jupyter Notebook
